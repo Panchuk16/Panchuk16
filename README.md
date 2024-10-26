@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panchuk16
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PostgreSQL and Authentication
+- 🌱 I’m currently learning React
 - 🫃🏿 Pronouns: I don't get into that m i stuff
 - ⚡ Fun fact: Life
