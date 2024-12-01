@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Panchuk16
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 🫃🏿 Pronouns: I don't get into that m i stuff
-- ⚡ Fun fact: Life
+- 📚 I'm a student at WSB Merito
+- 🌱 I’m currently learning React.js
